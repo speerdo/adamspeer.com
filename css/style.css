@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+* {
+  font-family: 'Playfair Display', serif;
+}
+
+#nav {
+  background-color: lightblue;
+}
+
+h3 {
+  text-align: center;
+}
